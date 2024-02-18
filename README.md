@@ -28,17 +28,13 @@ Dataset Source Link :
 
 # AWS Deployment Link :
 
-AWS Elastic Beanstalk link : [http://gemstonepriceutkarshgaikwad-env.eba-7zp3wapg.ap-south-1.elasticbeanstalk.com/](http://gemstonepriceutkarshgaikwad-env.eba-7zp3wapg.ap-south-1.elasticbeanstalk.com/)
-
-# Screenshot of UI
-
-![HomepageUI](./Screenshots/HomepageUI.jpg)
+AWS Elastic Beanstalk link : [http://gemstonepricepijushpal-env.eba-7zp3wapg.ap-south-1.elasticbeanstalk.com/](http://gemstonepricepijushpal-env.eba-7zp3wapg.ap-south-1.elasticbeanstalk.com/)
 
 
 
 # AWS API Link
 
-API Link : [http://gemstonepriceutkarshgaikwad-env.eba-7zp3wapg.ap-south-1.elasticbeanstalk.com/predictAPI](http://gemstonepriceutkarshgaikwad-env.eba-7zp3wapg.ap-south-1.elasticbeanstalk.com/predictAPI)
+API Link : [http://gemstonepricepijushpal-env.eba-7zp3wapg.ap-south-1.elasticbeanstalk.com/predictAPI](http://gemstonepricepijushpal-env.eba-7zp3wapg.ap-south-1.elasticbeanstalk.com/predictAPI)
 
 
 # Approach for the project 
