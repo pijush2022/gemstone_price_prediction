@@ -26,6 +26,10 @@ Dataset Source Link :
 ### It is observed that the categorical variables 'cut', 'color' and 'clarity' are ordinal in nature
 
 
+![gemstonepic1](https://github.com/pijush2022/gemstone_price_prediction/assets/104580397/0e9c81f8-df1f-4a23-b1dc-5567d280649d)
+
+
+
 # AWS Deployment Link :
 
 AWS Elastic Beanstalk link : [http://gemstonepricepijushpal-env.eba-7zp3wapg.ap-south-1.elasticbeanstalk.com/](http://gemstonepricepijushpal-env.eba-7zp3wapg.ap-south-1.elasticbeanstalk.com/)
