@@ -11,7 +11,7 @@ class PredictPipeline:
     def predict(self, features):
         try:
             preprocessor_path = 'C:\\Users\\pijus\\OneDrive\\Desktop\\gemstone_price_prediction\\artifacts\\preprocessor.pkl'
-            model_path = 'C:\\Users\\pijus\\OneDrive\\Desktop\\gemstone_price_prediction\\artifacts\\model.pkl'
+            model_path = 'C:\\Users\\pijus\OneDrive\\Desktop\\gemstone_price_prediction\\artifacts\\model.pkl'
             preprocessor = load_object(file_path=preprocessor_path)
             model = load_object(file_path=model_path)
             data_scaled = preprocessor.transform(features)
